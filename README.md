@@ -4,6 +4,6 @@
 #Extract  the project</br>
 #go to project root directory in command prompt.</br>
 #execute mvn clean test command</br>
-#Find the results report at /target/cucumber-reports
+#Find the results report at /target/cucumber-reports</br>
 #Find the exexution logs  at /logs/mylogs
 
